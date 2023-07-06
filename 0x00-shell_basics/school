@@ -1,2 +1,2 @@
-0	string SCHOOL school_file
-!:mime data/school
+0 string SCHOOL school_data
+!:mime text/school
